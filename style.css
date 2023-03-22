@@ -1,0 +1,152 @@
+body{
+    background-color:bisque;
+    margin-top:0px;
+}
+
+.header1{
+    text-align: center;
+    color:white;
+    text-shadow:3px 0 3px red;
+    background-image: url(./src/images/niggers.jpg);
+    background-position:left,right;
+    background-image: linear-gradient(25deg, red,orange,yellow,green,blue,skyblue,purple);
+    margin-left: 4px;
+    margin-top: 30px;
+    
+
+}
+.Up{
+    display: flex;
+    justify-content:center;
+}
+.header-photo{
+    border-radius: 20px;
+width: 80px;
+height: 80px;
+margin-left: 100px;
+margin-top: 10px;
+margin-right:98px;
+}
+.menu{
+    display: flex;
+    list-style: none;
+    flex-flow: row nowrap;
+margin-left: 30%;
+margin-bottom: 0px;
+}
+.menu a{
+text-transform: uppercase;
+text-decoration: none;
+color: black;
+}
+.menu li{
+    margin: 0 40px 0 0;
+
+}
+.menu li:last-child{
+    margin: 0 0 0 0;
+
+}
+a:hover{
+  color: brown;
+}
+.Gay{
+display:inline;
+width: 200px;
+height: 200px;
+border-radius: 13px;
+}
+.disk{
+    display:flex;
+    text-align: center;
+    justify-content: space-between;
+    
+}
+.description{
+    text-shadow: 3px 0 3px whitesmoke;
+    margin-top: 10px;
+    font-size: 250%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 0%;
+
+}
+.Gay:last-child{
+    transform:scale(-1,1);
+}
+.description::first-line{
+    text-decoration: underline;
+}
+.description_2{
+    border-radius: solid blue;
+    text-align: center;
+    color:blue;
+}
+.NigaPida{
+    border: solid blue;
+    border-radius: 10px;
+    width:200px;
+    height:250px;
+    border-width: 7px;
+    
+}
+.Gay_Parad{
+    border-width: 7px;
+    border: solid blue;
+    border-radius: 10px;
+    width:200px;
+    border-width: 7px;
+    height:250px;
+}
+.underdisk{
+    margin-right:19%;
+    display: flex;
+    margin-left: 230px;
+    flex-wrap: wrap;
+
+}
+.Niga{
+    border: solid blue;
+    border-radius: 10px;
+    width:200px;
+    height:250px;
+    border-width: 7px;
+}
+
+.Bandera{
+    border: solid #ffff00;
+    border-radius: 10px;
+    width:200px;
+    height:250px;
+    border-width: 7px;
+}
+.Navalniy{
+border: solid #ffff00;
+    border-radius: 10px;
+    width:200px;
+    height:250px;
+    border-width: 7px;
+}
+.Z{
+border: solid #ffff00;
+    border-radius: 10px;
+    width:200px;
+    height:250px;
+    border-width: 7px;
+}
+.Photo_Pidor{
+margin-right: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+._images{
+margin-right: 50px;
+margin-bottom: 10px;
+}
+.Nato{
+width: 30px;
+height: 30px;
+}
+.Pendos {
+    display: flex;
+
+}
